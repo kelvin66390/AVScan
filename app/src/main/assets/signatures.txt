@@ -1,0 +1,2 @@
+# Um hash SHA-256 de APK malicioso conhecido por linha (minúsculas).
+# Fontes: MalwareBazaar, VirusTotal. Linhas com # são ignoradas.
